@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - EVRYTHNG",
+	"description": "This is a repository of evrythng APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/evrythng.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://evrythng.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "EVRYTHNG",
+			"x-api-slug": "evrythng",
+			"description": "EVRYTHNG is the market leading internet of things platform for consumer product brands. Now individual product items can tell their stories to your business and your consumers throughout their lifecycle.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg",
+			"humanURL": "https://evrythng.com",
+			"baseURL": "https://example.com//",
+			"tags": "EVRYTHNG",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/evrythng/master/_listings/evrythng/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "EVRYTHNG",
+	"include": [
+		{
+			"name": "EVRYTHNG",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/evrythng/master/_listings/evrythng/apis.yaml"
+		}
+	]
+}
